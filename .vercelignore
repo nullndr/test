@@ -1,0 +1,13 @@
+.github
+.vscode
+.husky
+node_modules
+preview
+packages/**/dist
+packages/**/tsconfig.tsbuildinfo
+.commitlintrc.json
+.env
+.env.example
+.gitignore
+.vercelignore
+apps/jobs
