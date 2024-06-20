@@ -1,4 +1,4 @@
-
+packages/*/dist
 node_modules
 apps/remix/node_modules
 .vercel
